@@ -14,6 +14,13 @@ Inside project are used:
 For every type of UIGestureRecognizer there is a case of use.
 
 
+Demo
+----
+![alt tag](https://raw.github.com/dpizzuto/gesturerecognizer/master/Example.gif)
+
+
+
+
 License
 ----
 
